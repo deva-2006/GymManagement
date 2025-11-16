@@ -9,8 +9,8 @@ It handles basic gym operations like members, plans, attendance, and login.
 
 Login
 
-Admin login
-Member login
+* Admin login
+* Member login
 
 ### Admin
 
