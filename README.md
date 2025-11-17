@@ -1,8 +1,4 @@
-Got it — I took your original text almost verbatim, fixed the factual flaws (no signup, payments module removed, `plan_name` used as FK), and kept the same short, plain style you wanted.
 
-Copy–paste this exact content into **README.md** at your project root.
-
----
 
 # Gym Management System (Java + JDBC + MySQL)
 
@@ -13,8 +9,8 @@ It handles basic gym operations like members, plans, attendance, and login.
 
 Login
 
-Admin login
-Member login
+* Admin login
+* Member login
 
 ### Admin
 
